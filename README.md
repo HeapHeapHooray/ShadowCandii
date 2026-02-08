@@ -10,6 +10,7 @@
 ***Setting up***
 ---
 **Pre-requisites**
+- git
 - python3 with pip3.
 ---
 **Installing**  
@@ -21,4 +22,5 @@
 ```konsave -a ShadowCandii``` 
 
 *Relog or reboot.*
+
 
