@@ -6,3 +6,19 @@
 ---
 **Video:**
 ![](https://github.com/HeapHeapHooray/ShadowCandii/blob/master/readme_media/screencast.gif?raw=true)
+---
+***Setting up***
+---
+**Pre-requisites**
+- python3 with pip3.
+---
+**Installing**  
+  
+```git clone https://github.com/HeapHeapHooray/ShadowCandii```  
+```cd ShadowCandii```  
+```pip3 install konsave```  
+```konsave -i ShadowCandii.knsv```  
+```konsave -a ShadowCandii``` 
+
+*Relog or reboot.*
+
